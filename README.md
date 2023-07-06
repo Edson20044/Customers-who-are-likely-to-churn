@@ -1,23 +1,23 @@
 The aim of the project is producing a report that identifies customers who are likely churn for a telecommunication provider. The original dataset is available on https://www.kaggle.com/c/customer-churn-prediction-2020/overview. It has been modified with some columns removed, an age column added, and some cleaning performed. The data includes the following columns:
 
-•	two-letter abbreviation of the US state of customer residence
-•	customer's age
-•	three-digit area code
-•	whether or not customer has a voicemail plan
-•	number of voicemail messages
-•	total minutes of day calls
-•	total number of day calls
-•	total charge of day calls
-•	number of calls to customer service
-•	whether the customer has churned or not
+-•	two-letter abbreviation of the US state of customer residence
+-•	customer's age
+-•	three-digit area code
+-•	whether or not customer has a voicemail plan
+-•	number of voicemail messages
+-•	total minutes of day calls
+-•	total number of day calls
+-•	total charge of day calls
+-•	number of calls to customer service
+-•	whether the customer has churned or not
 
-1.	Churn Rate
+1.	**Churn Rate**
 
 First, the churn rate is calculated using the formula below   
 
 The churn rate is 14.07%.  Compared to the whole industry, it is not quite high. However, it is necessary to find and apply relevant methods to prevent customers from churning. Therefore, the types of customers who churned are to be investigated.
 
-2.	Initial EDA
+2.	**Initial EDA**
 
 For each column, the following metrics are calculated using Excel functions:
 
