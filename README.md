@@ -11,13 +11,13 @@ The aim of the project is producing a report that identifies customers who are l
 -	number of calls to customer service
 -	whether the customer has churned or not
 
-**1.	**Churn Rate**
+**1.	Churn Rate**
 
 First, the churn rate is calculated using the formula below   
 
 The churn rate is 14.07%.  Compared to the whole industry, it is not quite high. However, it is necessary to find and apply relevant methods to prevent customers from churning. Therefore, the types of customers who churned are to be investigated.
 
-**2.	**Initial EDA**
+**2.	Initial EDA**
 
 For each column, the following metrics are calculated using Excel functions:
 
