@@ -21,12 +21,12 @@ The churn rate is 14.07%.  Compared to the whole industry, it is not quite high.
 
 For each column, the following metrics are calculated using Excel functions:
 
-•	Number of NULL or blank values
-•	The mean of the column
-•	The median of the column
-•	The standard deviation of the column
-•	The minimum value of the column
-•	The maximum value of the column
+- Number of NULL or blank values
+-	The mean of the column
+-	The median of the column
+-	The standard deviation of the column
+-	The minimum value of the column
+-	The maximum value of the column
 
 The results presented in a separate table and are as follows:
 •	Columns total_day_minutes (54,01), total day calls (19,85), and number_vmail_messages (13,43) have the most variation.
