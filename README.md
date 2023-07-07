@@ -94,33 +94,33 @@ The histograms reveal the results below:
 
 The visualizations are limited to the top three states out of the five that were identified earlier:
 
-•	NJ
-•	MN
-•	TX
+-	NJ
+-	MN
+-	TX
 
 PivotTable is created to group the data:
 
-•	churn as Rows, 
-•	state as Columns
-•	the average of age as Values
+-	churn as Rows, 
+-	state as Columns
+-	the average of age as Values
 
 A Bar Chart is created from the above PivotTable that reveals the following findings:
 
-•	In all three states, customers who churned were younger than those who did not. 
-•	These two age groups include people of approximately the same age
+-	In all three states, customers who churned were younger than those who did not. 
+-	These two age groups include people of approximately the same age
 
-7.	Exploring and Visualizing Data Grouped by Churn
+**7.	Exploring and Visualizing Data Grouped by Churn**
 
 Finally, differences in other data grouped by churn in states with the highest churn (Minnesota, New Jersey, Texas) are explored. PivotTables are created to look at the following groups:
 
-•	Age
-•	Voicemail Plan
-•	Daily Charges
-•	Voicemail Messages
+-	Age
+-	Voicemail Plan
+-	Daily Charges
+-	Voicemail Messages
 
 For each PivotTable, Bar Chart is created depicting that group’s relationship. They confirm the insights discussed above as well as demonstrate the following:
 
-•	In all the three states the customers who churn are about 28 to 31 years old. The older customers, who are 39 to 40, do not tend to churn
-•	The customers from New Jersey were charged more compared to the others
-•	Churned New Jersey customers sent and received more voicemail messages than those from the other two states
+-	In all the three states the customers who churn are about 28 to 31 years old. The older customers, who are 39 to 40, do not tend to churn
+-	The customers from New Jersey were charged more compared to the others
+-	Churned New Jersey customers sent and received more voicemail messages than those from the other two states
 
